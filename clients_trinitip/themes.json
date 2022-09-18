@@ -135,19 +135,19 @@
       },
       "Text": {
         "primary": {
-          "value": "#303a45de",
+          "value": "(#303a45, 0.87)",
           "type": "color"
         },
         "secondary": {
-          "value": "#303a4599",
+          "value": "(#303a45, 0.60)",
           "type": "color"
         },
         "disabled": {
-          "value": "#303a4561",
+          "value": "(#303a45, 0.38)",
           "type": "color"
         },
         "divider": {
-          "value": "#303a451f",
+          "value": "(#303a45, 0.12)",
           "type": "color"
         }
       },
@@ -161,27 +161,27 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#303a451f",
+          "value": "(#303a45, 0.12)",
           "type": "color"
         },
         "overlay": {
-          "value": "#303a4599",
+          "value": "(#303a45, 0.6)",
           "type": "color"
         },
         "success-light": {
-          "value": "#33cb791f",
+          "value": "(#33cb79, 0.12)",
           "type": "color"
         },
         "warning-light": {
-          "value": "#ffe1831f",
+          "value": "(#ffe183, 0.12)",
           "type": "color"
         },
         "error-light": {
-          "value": "#ff65651f",
+          "value": "(#ff6565, 0.12)",
           "type": "color"
         },
         "info-light": {
-          "value": "#4e89d21f",
+          "value": "(#4e89d2, 0.12)",
           "type": "color"
         }
       },
@@ -237,19 +237,19 @@
           },
           "outlined": {
             "active": {
-              "value": "#0074898a",
+              "value": "(#007489, 0.54)",
               "type": "color"
             },
             "hover": {
-              "value": "#0074890a",
+              "value": "(#007489, 0.04)",
               "type": "color"
             },
             "selected": {
-              "value": "#00748914",
+              "value": "(#007489, 0.08)",
               "type": "color"
             },
             "focus": {
-              "value": "#0074891f",
+              "value": "(#007489, 0.12)",
               "type": "color"
             }
           }
@@ -275,19 +275,19 @@
           },
           "outlined": {
             "active": {
-              "value": "#ff7d4f8a",
+              "value": "(#ff7d4f, 0.54)",
               "type": "color"
             },
             "hover": {
-              "value": "#ff7d4f0a",
+              "value": "(#ff7d4f, 0.04)",
               "type": "color"
             },
             "selected": {
-              "value": "#ff7d4f14",
+              "value": "(#ff7d4f, 0.08)",
               "type": "color"
             },
             "focus": {
-              "value": "#ff7d4f1f",
+              "value": "(#ff7d4f, 0.12)",
               "type": "color"
             }
           }
@@ -1027,19 +1027,19 @@
       },
       "Text": {
         "primary": {
-          "value": "#303a45de",
+          "value": "(#303a45, 0.87)",
           "type": "color"
         },
         "secondary": {
-          "value": "#303a4599",
+          "value": "(#303a45, 0.6)",
           "type": "color"
         },
         "disabled": {
-          "value": "#303a4561",
+          "value": "(#303a45, 0.38)",
           "type": "color"
         },
         "divider": {
-          "value": "#303a451f",
+          "value": "(#303a45, 0.12)",
           "type": "color"
         }
       },
@@ -1053,23 +1053,23 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#303a451f",
+          "value": "(#303a45, 0.12)",
           "type": "color"
         },
         "overlay": {
-          "value": "#303a4599",
+          "value": "(#303a45, 0.6)",
           "type": "color"
         },
         "success-light": {
-          "value": "#33cb791f",
+          "value": "(#33cb79, 0.12)",
           "type": "color"
         },
         "warning-light": {
-          "value": "#ffe1831f",
+          "value": "(#ffe183, 0.12)",
           "type": "color"
         },
         "error-light": {
-          "value": "#ff65651f",
+          "value": "(#ff6565, 0.12)",
           "type": "color"
         },
         "info-light": {
@@ -1129,19 +1129,19 @@
           },
           "outlined": {
             "active": {
-              "value": "#D56C398a",
+              "value": "(#D56C39, 0.54)",
               "type": "color"
             },
             "hover": {
-              "value": "#D56C390a",
+              "value": "(#D56C39, 0.04)",
               "type": "color"
             },
             "selected": {
-              "value": "#D56C3914",
+              "value": "(#D56C39, 0.08)",
               "type": "color"
             },
             "focus": {
-              "value": "#D56C391f",
+              "value": "(#D56C39, 0.12)",
               "type": "color"
             }
           }
@@ -1167,19 +1167,19 @@
           },
           "outlined": {
             "active": {
-              "value": "#F6BD418a",
+              "value": "(#F6BD41, 0.54)",
               "type": "color"
             },
             "hover": {
-              "value": "#F6BD410a",
+              "value": "(#F6BD41, 0.04)",
               "type": "color"
             },
             "selected": {
-              "value": "#F6BD4114",
+              "value": "(#F6BD41, 0.08)",
               "type": "color"
             },
             "focus": {
-              "value": "#F6BD411f",
+              "value": "(#F6BD41, 0.12)",
               "type": "color"
             }
           }
@@ -1919,19 +1919,19 @@
       },
       "Text": {
         "primary": {
-          "value": "#303a45de",
+          "value": "(#303a45, 0.87)",
           "type": "color"
         },
         "secondary": {
-          "value": "#303a4599",
+          "value": "(#303a45, 0.06)",
           "type": "color"
         },
         "disabled": {
-          "value": "#303a4561",
+          "value": "(#303a45, 0.38)",
           "type": "color"
         },
         "divider": {
-          "value": "#303a451f",
+          "value": "(#303a45, 0.12)",
           "type": "color"
         }
       },
@@ -1945,27 +1945,27 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#303a451f",
+          "value": "(#303a45, 0.12)",
           "type": "color"
         },
         "overlay": {
-          "value": "#303a4599",
+          "value": "(#303a45, 0.06)",
           "type": "color"
         },
         "success-light": {
-          "value": "#33cb791f",
+          "value": "(#33cb79, 0.12)",
           "type": "color"
         },
         "warning-light": {
-          "value": "#ffe1831f",
+          "value": "(#ffe183, 0.12)",
           "type": "color"
         },
         "error-light": {
-          "value": "#ff65651f",
+          "value": "(#ff6565, 0.12)",
           "type": "color"
         },
         "info-light": {
-          "value": "#4e89d21f",
+          "value": "(#4e89d2, 0.12)",
           "type": "color"
         }
       },
@@ -2021,19 +2021,19 @@
           },
           "outlined": {
             "active": {
-              "value": "#4514008a",
+              "value": "(#451400, 0.54)",
               "type": "color"
             },
             "hover": {
-              "value": "#4514000a",
+              "value": "(#451400, 0.04)",
               "type": "color"
             },
             "selected": {
-              "value": "#45140014",
+              "value": "(#451400, 0.08)",
               "type": "color"
             },
             "focus": {
-              "value": "#4514001f",
+              "value": "(#451400, 0.12)",
               "type": "color"
             }
           }
@@ -2059,19 +2059,19 @@
           },
           "outlined": {
             "active": {
-              "value": "#AD21188a",
+              "value": "(#AD2118, 0.54)",
               "type": "color"
             },
             "hover": {
-              "value": "#AD21180a",
+              "value": "(#AD2118, 0.04)",
               "type": "color"
             },
             "selected": {
-              "value": "#AD211814",
+              "value": "(#AD2118, 0.08)",
               "type": "color"
             },
             "focus": {
-              "value": "#AD21181f",
+              "value": "(#AD2118, 0.12)",
               "type": "color"
             }
           }
