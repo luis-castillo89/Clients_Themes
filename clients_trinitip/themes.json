@@ -241,7 +241,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "#0074890a",
+              "value": "#00748926",
               "type": "color"
             },
             "selected": {
@@ -279,7 +279,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "#ff7d4f0a",
+              "value": "#ff7d4f26",
               "type": "color"
             },
             "selected": {
@@ -1133,7 +1133,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "#d56c390a",
+              "value": "#d56c3926",
               "type": "color"
             },
             "selected": {
@@ -1171,7 +1171,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "#f6bd410a",
+              "value": "#f6bd4126",
               "type": "color"
             },
             "selected": {
@@ -2025,7 +2025,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "#4514000a",
+              "value": "#45140026",
               "type": "color"
             },
             "selected": {
@@ -2063,7 +2063,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "#AD21180a",
+              "value": "#AD211826",
               "type": "color"
             },
             "selected": {
@@ -2917,7 +2917,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "#7ED4EB0a",
+              "value": "#7ED4EB26",
               "type": "color"
             },
             "selected": {
@@ -2955,7 +2955,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "#FEB2980a",
+              "value": "#FEB29826",
               "type": "color"
             },
             "selected": {
