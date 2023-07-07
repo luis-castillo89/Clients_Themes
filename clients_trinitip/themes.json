@@ -12,22 +12,22 @@
         }
       },
       "primary": {
-        "light": {
+        "400": {
           "value": "#338fa0",
           "type": "color"
         },
-        "main": {
+        "500": {
           "value": "#007489",
           "type": "color"
         },
-        "dark": {
+        "600": {
           "value": "#00515f",
           "type": "color"
         }
       },
       "secondary": {
         "light": {
-          "value": "#ff9772",
+          "value": "#6b4e44",
           "type": "color"
         },
         "main": {
@@ -242,7 +242,8 @@
             },
             "hover": {
               "value": "#00748926",
-              "type": "color"
+              "type": "color",
+              "description": "use for hover state"
             },
             "selected": {
               "value": "#00748914",
@@ -299,10 +300,10 @@
         "value": {
           "color": "#12121233",
           "type": "dropShadow",
-          "x": 0,
-          "y": 8,
-          "blur": 16,
-          "spread": 0
+          "x": "0",
+          "y": "8",
+          "blur": "16",
+          "spread": "0"
         },
         "type": "boxShadow",
         "description": "Dialogs, Menu"
@@ -311,10 +312,10 @@
         "value": {
           "color": "#00000029",
           "type": "dropShadow",
-          "x": 0,
-          "y": 4,
-          "blur": 8,
-          "spread": 0
+          "x": "0",
+          "y": "4",
+          "blur": "8",
+          "spread": "0"
         },
         "type": "boxShadow",
         "description": "uses in tables, cards"
@@ -323,10 +324,10 @@
         "value": {
           "color": "#00000040",
           "type": "dropShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 2,
-          "spread": 0
+          "x": "0",
+          "y": "2",
+          "blur": "2",
+          "spread": "0"
         },
         "type": "boxShadow",
         "description": "uses in menu drawer"
