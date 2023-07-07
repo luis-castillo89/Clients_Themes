@@ -283,20 +283,22 @@
         }
       },
       "Text": {
-        "text-primary": {
-          "value": "{Light.neutral.900}",
+        "text-default": {
+          "value": "#424242",
           "type": "color"
         },
         "text-secondary": {
-          "value": "{Light.neutral.700}",
+          "value": "#757575",
           "type": "color"
         },
         "text-disabled": {
-          "value": "{Light.neutral.500}",
+          "value": "#bdbdbd",
           "type": "color"
-        },
-        "divider": {
-          "value": "#303a451f",
+        }
+      },
+      "border": {
+        "border": {
+          "value": "#e0e0e0",
           "type": "color"
         }
       },
@@ -471,6 +473,12 @@
             "value": "#5c0085",
             "type": "color"
           }
+        }
+      },
+      "icons": {
+        "icon": {
+          "value": "#d9d9d9",
+          "type": "color"
         }
       }
     },
