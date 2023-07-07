@@ -303,35 +303,35 @@
         }
       },
       "background": {
-        "paper": {
+        "bg-alternative": {
           "value": "#ffffff",
           "type": "color"
         },
-        "default": {
+        "bg-default": {
           "value": "#f2f2f2",
           "type": "color"
         },
-        "disabled": {
+        "bg-disabled": {
           "value": "#303a451f",
           "type": "color"
         },
-        "overlay": {
+        "backdrop": {
           "value": "#303a4599",
           "type": "color"
         },
-        "success-light": {
+        "bg-success-light": {
           "value": "#33cb791f",
           "type": "color"
         },
-        "warning-light": {
+        "bg-warning-light": {
           "value": "#ffe1833d",
           "type": "color"
         },
-        "error-light": {
+        "bg-error-light": {
           "value": "#ff65651f",
           "type": "color"
         },
-        "info-light": {
+        "bg-info-light": {
           "value": "#4e89d21f",
           "type": "color"
         }
