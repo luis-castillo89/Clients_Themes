@@ -319,21 +319,89 @@
           "value": "{Light.neutral.700}",
           "type": "color"
         },
-        "bg-success-light": {
+        "bg-success-inverse": {
           "value": "{Light.success.100}",
           "type": "color"
         },
-        "bg-warning-light": {
+        "bg-warning-inverse": {
           "value": "{Light.warning.100}",
           "type": "color"
         },
-        "bg-error-light": {
+        "bg-error-inverse": {
           "value": "{Light.error.100}",
           "type": "color"
         },
-        "bg-info-light": {
+        "bg-info-inverse": {
           "value": "{Light.info.100}",
           "type": "color"
+        },
+        "bg-default-dark": {
+          "value": "#eeeeee",
+          "type": "color",
+          "description": "Dark variant of COLOR_BACKGROUND."
+        },
+        "bg-row-active": {
+          "value": "#eeeeee",
+          "type": "color",
+          "description": "Used as the background color for the active state on rows or items on list-like components"
+        },
+        "bg-row-hover": {
+          "value": "#e0e0e0",
+          "type": "color",
+          "description": "Used as the background color for the hover state on rows or items on list-like components."
+        },
+        "bg-primary-inverse": {
+          "value": "#c7f9f1",
+          "type": "color"
+        },
+        "bg-primary": {
+          "value": "#007489",
+          "type": "color"
+        },
+        "bg-primary-dark": {
+          "value": "#004462",
+          "type": "color",
+          "description": "Alternative background color for dark portions of the web"
+        },
+        "bg-error": {
+          "value": "#ff3f3f",
+          "type": "color",
+          "description": "Color for UI elements related to errors"
+        },
+        "bg-error-dark": {
+          "value": "#931435",
+          "type": "color",
+          "description": "Darker color for UI elements that have to do with error. Accessible with white text"
+        },
+        "bg-success": {
+          "value": "#00bf58",
+          "type": "color",
+          "description": "Color for UI elements that have to do with success"
+        },
+        "bg-success-dark": {
+          "value": "#006e54",
+          "type": "color",
+          "description": "Darker color for UI elements that have to do with success. Accessible with white text"
+        },
+        "bg-warning": {
+          "value": "#ffda64",
+          "type": "color",
+          "description": "Color for UI elements that have to do with warning."
+        },
+        "bg-warning-dark": {
+          "value": "#936f1f",
+          "type": "color",
+          "description": "Color for UI elements that have to background-warning-dark do with warning."
+        },
+        "bg-info": {
+          "value": "#226cc7",
+          "type": "color",
+          "description": "Background color for UI elements related to providing neutral information (not error, success, or warning)."
+        },
+        "bg-info-dark": {
+          "value": "#0a2b73",
+          "type": "color",
+          "description": "Color for UI elements that have to background-warning-dark do with Info."
         }
       },
       "custom": {
@@ -442,6 +510,23 @@
               "value": "#ff7d4f1f",
               "type": "color"
             }
+          }
+        },
+        "destructive": {
+          "destructive-normal": {
+            "value": "#ff3f3f",
+            "type": "color",
+            "description": "Color for UI elements related to destructive actions"
+          },
+          "destructive-active": {
+            "value": "#b71f3a",
+            "type": "color",
+            "description": "Active color for UI elements related to destructive actions"
+          },
+          "destructive-hover": {
+            "value": "#db2e3d",
+            "type": "color",
+            "description": "Hover color for UI elements related to destructive actions."
           }
         }
       },
