@@ -12,6 +12,18 @@
         }
       },
       "primary": {
+        "100": {
+          "value": "#c7f9f1",
+          "type": "color"
+        },
+        "200": {
+          "value": "#91f3eb",
+          "type": "color"
+        },
+        "300": {
+          "value": "#57dbdb",
+          "type": "color"
+        },
         "400": {
           "value": "#2eadb8",
           "type": "color",
@@ -23,6 +35,18 @@
         },
         "600": {
           "value": "#005a75",
+          "type": "color"
+        },
+        "700": {
+          "value": "#004462",
+          "type": "color"
+        },
+        "800": {
+          "value": "#00304f",
+          "type": "color"
+        },
+        "900": {
+          "value": "#002341",
           "type": "color"
         }
       },
