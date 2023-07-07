@@ -127,15 +127,15 @@
         }
       },
       "warning": {
-        "light": {
+        "400": {
           "value": "#ffe183",
           "type": "color"
         },
-        "main": {
+        "500": {
           "value": "#ffda64",
           "type": "color"
         },
-        "dark": {
+        "600": {
           "value": "#b29846",
           "type": "color"
         }
@@ -364,6 +364,36 @@
               "value": "#ff7d4f1f",
               "type": "color"
             }
+          }
+        }
+      },
+      "system": {
+        "custom_color_1": {
+          "light": {
+            "value": "#d6e8eb",
+            "type": "color"
+          },
+          "main": {
+            "value": "#cce3e7",
+            "type": "color"
+          },
+          "dark": {
+            "value": "#8e9ea1",
+            "type": "color"
+          }
+        },
+        "custom_color_2": {
+          "light": {
+            "value": "#9c33cb",
+            "type": "color"
+          },
+          "main": {
+            "value": "#8400bf",
+            "type": "color"
+          },
+          "dark": {
+            "value": "#5c0085",
+            "type": "color"
           }
         }
       }
