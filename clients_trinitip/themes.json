@@ -304,35 +304,35 @@
       },
       "background": {
         "bg-alternative": {
-          "value": "#ffffff",
+          "value": "{Light.common.white}",
           "type": "color"
         },
         "bg-default": {
-          "value": "#f2f2f2",
+          "value": "{Light.neutral.200}",
           "type": "color"
         },
         "bg-disabled": {
-          "value": "#303a451f",
+          "value": "{Light.neutral.400}",
           "type": "color"
         },
         "backdrop": {
-          "value": "#303a4599",
+          "value": "{Light.neutral.700}",
           "type": "color"
         },
         "bg-success-light": {
-          "value": "#33cb791f",
+          "value": "{Light.success.100}",
           "type": "color"
         },
         "bg-warning-light": {
-          "value": "#ffe1833d",
+          "value": "{Light.warning.100}",
           "type": "color"
         },
         "bg-error-light": {
-          "value": "#ff65651f",
+          "value": "{Light.error.100}",
           "type": "color"
         },
         "bg-info-light": {
-          "value": "#4e89d21f",
+          "value": "{Light.info.100}",
           "type": "color"
         }
       },
