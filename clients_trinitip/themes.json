@@ -165,20 +165,32 @@
         }
       },
       "info": {
-        "light": {
-          "value": "#4e89d2",
+        "400": {
+          "value": "#5397dd",
           "type": "color"
         },
-        "main": {
+        "500": {
           "value": "#226cc7",
           "type": "color"
         },
-        "dark": {
-          "value": "#174b8b",
+        "600": {
+          "value": "#1853ab",
           "type": "color"
         }
       },
       "success": {
+        "400": {
+          "value": "#33cb79",
+          "type": "color"
+        },
+        "500": {
+          "value": "#00bf58",
+          "type": "color"
+        },
+        "600": {
+          "value": "#00853d",
+          "type": "color"
+        },
         "light": {
           "value": "#33cb79",
           "type": "color"
