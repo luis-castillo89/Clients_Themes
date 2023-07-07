@@ -190,18 +190,6 @@
         "600": {
           "value": "#00853d",
           "type": "color"
-        },
-        "light": {
-          "value": "#33cb79",
-          "type": "color"
-        },
-        "main": {
-          "value": "#00bf58",
-          "type": "color"
-        },
-        "dark": {
-          "value": "#00853d",
-          "type": "color"
         }
       },
       "grey": {
