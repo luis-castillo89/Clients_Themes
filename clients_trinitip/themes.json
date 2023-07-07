@@ -89,15 +89,15 @@
         }
       },
       "error": {
-        "light": {
+        "400": {
           "value": "#ff6565",
           "type": "color"
         },
-        "main": {
+        "500": {
           "value": "#ff3f3f",
           "type": "color"
         },
-        "dark": {
+        "600": {
           "value": "#b22c2c",
           "type": "color"
         }
