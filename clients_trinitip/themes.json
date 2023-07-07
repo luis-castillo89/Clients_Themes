@@ -404,31 +404,31 @@
           "description": "Color for UI elements that have to background-warning-dark do with Info."
         }
       },
-      "custom": {
-        "custom_color_1": {
-          "light": {
+      "system": {
+        "blue-grey": {
+          "400": {
             "value": "#d6e8eb",
             "type": "color"
           },
-          "main": {
+          "500": {
             "value": "#cce3e7",
             "type": "color"
           },
-          "dark": {
+          "600": {
             "value": "#8e9ea1",
             "type": "color"
           }
         },
-        "custom_color_2": {
-          "light": {
+        "purple": {
+          "400": {
             "value": "#9c33cb",
             "type": "color"
           },
-          "main": {
+          "500": {
             "value": "#8400bf",
             "type": "color"
           },
-          "dark": {
+          "600": {
             "value": "#5c0085",
             "type": "color"
           }
@@ -527,36 +527,6 @@
             "value": "#db2e3d",
             "type": "color",
             "description": "Hover color for UI elements related to destructive actions."
-          }
-        }
-      },
-      "system": {
-        "custom_color_1": {
-          "light": {
-            "value": "#d6e8eb",
-            "type": "color"
-          },
-          "main": {
-            "value": "#cce3e7",
-            "type": "color"
-          },
-          "dark": {
-            "value": "#8e9ea1",
-            "type": "color"
-          }
-        },
-        "custom_color_2": {
-          "light": {
-            "value": "#9c33cb",
-            "type": "color"
-          },
-          "main": {
-            "value": "#8400bf",
-            "type": "color"
-          },
-          "dark": {
-            "value": "#5c0085",
-            "type": "color"
           }
         }
       },
