@@ -283,16 +283,16 @@
         }
       },
       "Text": {
-        "primary": {
-          "value": "#303a45de",
+        "text-primary": {
+          "value": "{Light.neutral.900}",
           "type": "color"
         },
-        "secondary": {
-          "value": "#303a4599",
+        "text-secondary": {
+          "value": "{Light.neutral.700}",
           "type": "color"
         },
-        "disabled": {
-          "value": "#303a4561",
+        "text-disabled": {
+          "value": "{Light.neutral.500}",
           "type": "color"
         },
         "divider": {
