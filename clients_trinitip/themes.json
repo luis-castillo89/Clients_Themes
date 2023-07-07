@@ -13,15 +13,16 @@
       },
       "primary": {
         "400": {
-          "value": "#338fa0",
-          "type": "color"
+          "value": "#2eadb8",
+          "type": "color",
+          "description": "use para bordes, fondos"
         },
         "500": {
           "value": "#007489",
           "type": "color"
         },
         "600": {
-          "value": "#00515f",
+          "value": "#005a75",
           "type": "color"
         }
       },
