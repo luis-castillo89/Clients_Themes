@@ -315,7 +315,7 @@
           "value": "{Light.neutral.400}",
           "type": "color"
         },
-        "backdrop": {
+        "bg-backdrop": {
           "value": "{Light.neutral.700}",
           "type": "color"
         },
