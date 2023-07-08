@@ -516,19 +516,19 @@
       "system": {
         "blue-grey": {
           "100": {
-            "value": "#d9d9d9",
+            "value": "#f7fdfc",
             "type": "color"
           },
           "200": {
-            "value": "#d9d9d9",
+            "value": "#f0fcfb",
             "type": "color"
           },
           "300": {
-            "value": "#d9d9d9",
+            "value": "#e6f7f7",
             "type": "color"
           },
           "400": {
-            "value": "#d6e8eb",
+            "value": "#dbeff0",
             "type": "color"
           },
           "500": {
@@ -536,37 +536,37 @@
             "type": "color"
           },
           "600": {
-            "value": "#8e9ea1",
+            "value": "#95bbc6",
             "type": "color"
           },
           "700": {
-            "value": "#d9d9d9",
+            "value": "#6693a6",
             "type": "color"
           },
           "800": {
-            "value": "#d9d9d9",
+            "value": "#416b85",
             "type": "color"
           },
           "900": {
-            "value": "#d9d9d9",
+            "value": "#274d6e",
             "type": "color"
           }
         },
         "purple": {
           "100": {
-            "value": "#d9d9d9",
+            "value": "#f9c9fb",
             "type": "color"
           },
           "200": {
-            "value": "#d9d9d9",
+            "value": "#ed95f8",
             "type": "color"
           },
           "300": {
-            "value": "#d9d9d9",
+            "value": "#d25eeb",
             "type": "color"
           },
           "400": {
-            "value": "#9c33cb",
+            "value": "#b136d8",
             "type": "color"
           },
           "500": {
@@ -574,19 +574,19 @@
             "type": "color"
           },
           "600": {
-            "value": "#5c0085",
+            "value": "#6600a4",
             "type": "color"
           },
           "700": {
-            "value": "#d9d9d9",
+            "value": "#4c0089",
             "type": "color"
           },
           "800": {
-            "value": "#d9d9d9",
+            "value": "#36006e",
             "type": "color"
           },
           "900": {
-            "value": "#d9d9d9",
+            "value": "#27005b",
             "type": "color"
           }
         }
@@ -604,10 +604,6 @@
             },
             "selected": {
               "value": "#005868",
-              "type": "color"
-            },
-            "focus": {
-              "value": "#004f5d",
               "type": "color"
             },
             "normal": {
