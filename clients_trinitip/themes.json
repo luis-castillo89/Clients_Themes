@@ -613,6 +613,10 @@
             "focus": {
               "value": "#004f5d",
               "type": "color"
+            },
+            "normal": {
+              "value": "#007489",
+              "type": "color"
             }
           },
           "outlined": {
@@ -631,6 +635,10 @@
             },
             "focus": {
               "value": "#0074891f",
+              "type": "color"
+            },
+            "normal": {
+              "value": "#00748900",
               "type": "color"
             }
           }
@@ -652,6 +660,10 @@
             "focus": {
               "value": "#ad5536",
               "type": "color"
+            },
+            "normal": {
+              "value": "#ff7d4f",
+              "type": "color"
             }
           },
           "outlined": {
@@ -669,6 +681,10 @@
             },
             "focus": {
               "value": "#ff7d4f1f",
+              "type": "color"
+            },
+            "normal": {
+              "value": "#ff7d4f00",
               "type": "color"
             }
           }
