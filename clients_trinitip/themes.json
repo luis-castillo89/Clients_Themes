@@ -294,6 +294,83 @@
         "text-disabled": {
           "value": "#bdbdbd",
           "type": "color"
+        },
+        "text-action-label": {
+          "value": "#616161",
+          "type": "color",
+          "description": "Action label text color"
+        },
+        "text-action-label-hover": {
+          "value": "#005a75",
+          "type": "color"
+        },
+        "text-action-label-active": {
+          "value": "#004462",
+          "type": "color"
+        },
+        "text-primary": {
+          "value": "#007489",
+          "type": "color",
+          "description": "Our product brand"
+        },
+        "text-destructive": {
+          "value": "#ff3f3f",
+          "type": "color",
+          "description": "Text color for destructive actions"
+        },
+        "text-destructive-hover": {
+          "value": "#db2e3d",
+          "type": "color",
+          "description": "Text color for destructive actions - hover state"
+        },
+        "text-error": {
+          "value": "#ff3f3f",
+          "type": "color",
+          "description": "Error text for inputs and error misc"
+        },
+        "text-input-disabled": {
+          "value": "#bdbdbd",
+          "type": "color",
+          "description": "disabled text color."
+        },
+        "text-link": {
+          "value": "#226cc7",
+          "type": "color",
+          "description": "Link text"
+        },
+        "text-link-hover": {
+          "value": "#1853ab",
+          "type": "color"
+        },
+        "text-link-active": {
+          "value": "#113e8f",
+          "type": "color",
+          "description": "Active link text"
+        },
+        "text-info-dark": {
+          "value": "#0a2b73",
+          "type": "color",
+          "description": "Color for texts that are related to info on a light background"
+        },
+        "text-placeholder": {
+          "value": "#757575",
+          "type": "color",
+          "description": "Input placeholder text."
+        },
+        "text-success": {
+          "value": "#00bf58",
+          "type": "color",
+          "description": "Text color for success text"
+        },
+        "text-success-dark": {
+          "value": "#006e54",
+          "type": "color",
+          "description": "Color for texts that are related to info on a light background"
+        },
+        "text-warning-dark": {
+          "value": "#936f1f",
+          "type": "color",
+          "description": "Color for texts that are related to warnings on a light background"
         }
       },
       "border": {
