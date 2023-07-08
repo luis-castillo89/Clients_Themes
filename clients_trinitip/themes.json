@@ -300,6 +300,42 @@
         "border": {
           "value": "#e0e0e0",
           "type": "color"
+        },
+        "border-default": {
+          "value": "#e0e0e0",
+          "type": "color"
+        },
+        "border-hover": {
+          "value": "#616161",
+          "type": "color"
+        },
+        "border-disabled": {
+          "value": "#bdbdbd",
+          "type": "color"
+        },
+        "border-primary": {
+          "value": "#007489",
+          "type": "color"
+        },
+        "border-primary-hover": {
+          "value": "#005a75",
+          "type": "color"
+        },
+        "border-primery-active": {
+          "value": "#004462",
+          "type": "color"
+        },
+        "border-primary-focus": {
+          "value": "#005a75",
+          "type": "color"
+        },
+        "border-success": {
+          "value": "#00bf58",
+          "type": "color"
+        },
+        "border-error": {
+          "value": "#ff3f3f",
+          "type": "color"
         }
       },
       "background": {
@@ -406,6 +442,18 @@
       },
       "system": {
         "blue-grey": {
+          "100": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "200": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
           "400": {
             "value": "#d6e8eb",
             "type": "color"
@@ -417,9 +465,33 @@
           "600": {
             "value": "#8e9ea1",
             "type": "color"
+          },
+          "700": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "800": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "900": {
+            "value": "#d9d9d9",
+            "type": "color"
           }
         },
         "purple": {
+          "100": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "200": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "300": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
           "400": {
             "value": "#9c33cb",
             "type": "color"
@@ -430,6 +502,18 @@
           },
           "600": {
             "value": "#5c0085",
+            "type": "color"
+          },
+          "700": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "800": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "900": {
+            "value": "#d9d9d9",
             "type": "color"
           }
         }
@@ -533,6 +617,30 @@
       "icons": {
         "icon": {
           "value": "#d9d9d9",
+          "type": "color"
+        },
+        "ic-alternative": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "ic-default": {
+          "value": "#757575",
+          "type": "color"
+        },
+        "ic-hover": {
+          "value": "#616161",
+          "type": "color"
+        },
+        "ic-disabled": {
+          "value": "#bdbdbd",
+          "type": "color"
+        },
+        "ic-error": {
+          "value": "#ff3f3f",
+          "type": "color"
+        },
+        "ic-info": {
+          "value": "#226cc7",
           "type": "color"
         }
       }
