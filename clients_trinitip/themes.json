@@ -689,6 +689,28 @@
             "type": "color",
             "description": "Hover color for UI elements related to destructive actions."
           }
+        },
+        "default": {
+          "normal": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#fafafa",
+            "type": "color"
+          },
+          "active": {
+            "value": "#f5f5f5",
+            "type": "color"
+          },
+          "selected": {
+            "value": "#eeeeee",
+            "type": "color"
+          },
+          "focus": {
+            "value": "#f5f5f5",
+            "type": "color"
+          }
         }
       },
       "icons": {
