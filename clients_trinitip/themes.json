@@ -374,44 +374,40 @@
         }
       },
       "border": {
-        "border": {
-          "value": "#e0e0e0",
-          "type": "color"
-        },
         "border-default": {
-          "value": "#e0e0e0",
+          "value": "{Light.neutral.400}",
           "type": "color"
         },
         "border-hover": {
-          "value": "#616161",
+          "value": "{Light.neutral.800}",
           "type": "color"
         },
         "border-disabled": {
-          "value": "#bdbdbd",
+          "value": "{Light.neutral.500}",
           "type": "color"
         },
         "border-primary": {
-          "value": "#007489",
+          "value": "{Light.primary.500}",
           "type": "color"
         },
         "border-primary-hover": {
-          "value": "#005a75",
+          "value": "{Light.primary.600}",
           "type": "color"
         },
         "border-primery-active": {
-          "value": "#004462",
+          "value": "{Light.primary.700}",
           "type": "color"
         },
         "border-primary-focus": {
-          "value": "#005a75",
+          "value": "{Light.primary.600}",
           "type": "color"
         },
         "border-success": {
-          "value": "#00bf58",
+          "value": "{Light.success.500}",
           "type": "color"
         },
         "border-error": {
-          "value": "#ff3f3f",
+          "value": "{Light.error.500}",
           "type": "color"
         }
       },
