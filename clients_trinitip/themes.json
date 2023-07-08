@@ -399,7 +399,7 @@
           "type": "color"
         },
         "border-primary-focus": {
-          "value": "{Light.primary.600}",
+          "value": "{Light.primary.300}",
           "type": "color"
         },
         "border-success": {
@@ -594,90 +594,85 @@
       "actions": {
         "primary": {
           "contained": {
-            "active": {
-              "value": "#006374",
+            "normal": {
+              "value": "{Light.primary.500}",
               "type": "color"
             },
             "hover": {
-              "value": "#006374",
+              "value": "{Light.primary.600}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{Light.primary.700}",
               "type": "color"
             },
             "selected": {
-              "value": "#005868",
-              "type": "color"
-            },
-            "normal": {
-              "value": "#007489",
+              "value": "{Light.primary.100}",
               "type": "color"
             }
           },
           "outlined": {
-            "active": {
-              "value": "#0074898a",
-              "type": "color"
+            "normal": {
+              "value": "{Light.primary.500} ,0",
+              "type": "color",
+              "description": "background-primary-transparent-normal"
             },
             "hover": {
-              "value": "#00748926",
+              "value": "#00748914",
               "type": "color",
-              "description": "use for hover state"
+              "description": "background-primary-transparent-hover"
+            },
+            "active": {
+              "value": "#00748929",
+              "type": "color",
+              "description": "background-primary-transparent-active"
             },
             "selected": {
-              "value": "#00748914",
-              "type": "color"
-            },
-            "focus": {
-              "value": "#0074891f",
-              "type": "color"
-            },
-            "normal": {
-              "value": "#00748900",
-              "type": "color"
+              "value": "#0074893d",
+              "type": "color",
+              "description": "background-primary-transparent-focus"
             }
           }
         },
         "secondary": {
           "contained": {
-            "active": {
-              "value": "#753a24",
+            "normal": {
+              "value": "{Light.secondary.500}",
               "type": "color"
             },
             "hover": {
-              "value": "#d96a43",
+              "value": "#db5839",
+              "type": "color"
+            },
+            "active": {
+              "value": "#b73927",
               "type": "color"
             },
             "selected": {
-              "value": "#c25f3c",
-              "type": "color"
-            },
-            "focus": {
-              "value": "#ad5536",
-              "type": "color"
-            },
-            "normal": {
-              "value": "#ff7d4f",
+              "value": "#ffeedb",
               "type": "color"
             }
           },
           "outlined": {
-            "active": {
-              "value": "#ff7d4f8a",
-              "type": "color"
-            },
-            "hover": {
-              "value": "#ff7d4f26",
-              "type": "color"
-            },
-            "selected": {
-              "value": "#ff7d4f14",
-              "type": "color"
-            },
-            "focus": {
-              "value": "#ff7d4f1f",
-              "type": "color"
-            },
             "normal": {
               "value": "#ff7d4f00",
-              "type": "color"
+              "type": "color",
+              "description": "background-secondary-transparent-normal"
+            },
+            "hover": {
+              "value": "#ff7d4f14",
+              "type": "color",
+              "description": "background-secondary-transparent-hover"
+            },
+            "active": {
+              "value": "#ff7d4f29",
+              "type": "color",
+              "description": "background-secondary-transparent-active"
+            },
+            "selected": {
+              "value": "#ff7d4f3d",
+              "type": "color",
+              "description": "background-secondary-transparent-selected"
             }
           }
         },
