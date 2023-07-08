@@ -613,24 +613,24 @@
           },
           "outlined": {
             "normal": {
-              "value": "{Light.primary.500} ,0",
+              "value": "rgba($Light.primary.500, 0)",
               "type": "color",
               "description": "background-primary-transparent-normal"
             },
             "hover": {
-              "value": "#00748914",
+              "value": "rgba($Light.primary.500, 0.08)",
               "type": "color",
               "description": "background-primary-transparent-hover"
             },
             "active": {
-              "value": "#00748929",
+              "value": "rgba($Light.primary.500, 0.16)",
               "type": "color",
               "description": "background-primary-transparent-active"
             },
             "selected": {
-              "value": "#0074893d",
+              "value": "rgba($Light.primary.500, 0.24)",
               "type": "color",
-              "description": "background-primary-transparent-focus"
+              "description": "background-primary-transparent-selected"
             }
           }
         },
@@ -655,22 +655,22 @@
           },
           "outlined": {
             "normal": {
-              "value": "#ff7d4f00",
+              "value": "rgba($Light.secondary.500, 0)",
               "type": "color",
               "description": "background-secondary-transparent-normal"
             },
             "hover": {
-              "value": "#ff7d4f14",
+              "value": "rgba($Light.secondary.500, 0.08)",
               "type": "color",
               "description": "background-secondary-transparent-hover"
             },
             "active": {
-              "value": "#ff7d4f29",
+              "value": "rgba($Light.secondary.500, 0.16)",
               "type": "color",
               "description": "background-secondary-transparent-active"
             },
             "selected": {
-              "value": "#ff7d4f3d",
+              "value": "rgba($Light.secondary.500, 0.24)",
               "type": "color",
               "description": "background-secondary-transparent-selected"
             }
@@ -678,71 +678,63 @@
         },
         "destructive": {
           "destructive-normal": {
-            "value": "#ff3f3f",
+            "value": "{Light.error.500}",
             "type": "color",
             "description": "Color for UI elements related to destructive actions"
           },
           "destructive-active": {
-            "value": "#b71f3a",
+            "value": "{Light.error.700}",
             "type": "color",
             "description": "Active color for UI elements related to destructive actions"
           },
           "destructive-hover": {
-            "value": "#db2e3d",
+            "value": "{Light.error.600}",
             "type": "color",
             "description": "Hover color for UI elements related to destructive actions."
           }
         },
         "default": {
           "normal": {
-            "value": "#ffffff",
+            "value": "{Light.common.white}",
             "type": "color"
           },
           "hover": {
-            "value": "#fafafa",
+            "value": "{Light.neutral.100}",
             "type": "color"
           },
           "active": {
-            "value": "#f5f5f5",
+            "value": "{Light.neutral.200}",
             "type": "color"
           },
           "selected": {
-            "value": "#eeeeee",
-            "type": "color"
-          },
-          "focus": {
-            "value": "#f5f5f5",
+            "value": "{Light.neutral.300}",
             "type": "color"
           }
         }
       },
       "icons": {
-        "icon": {
-          "value": "#d9d9d9",
-          "type": "color"
-        },
         "ic-alternative": {
-          "value": "#ffffff",
+          "value": "{Light.common.white}",
           "type": "color"
         },
         "ic-default": {
-          "value": "#757575",
+          "value": "{Light.neutral.700}",
           "type": "color"
         },
         "ic-hover": {
-          "value": "#616161",
+          "value": "{Light.neutral.800}",
           "type": "color"
         },
         "ic-disabled": {
-          "value": "#bdbdbd",
+          "value": "{Light.neutral.500}",
           "type": "color"
         },
         "ic-error": {
-          "value": "#ff3f3f",
+          "value": "{Light.error.500}",
           "type": "color"
         },
         "ic-info": {
-          "value": "#226cc7",
+          "value": "{Light.info.500}",
           "type": "color"
         }
       }
