@@ -284,165 +284,176 @@
       },
       "Text": {
         "text-default": {
-          "value": "{Light.neutral.900}",
+          "value": "#424242",
           "type": "color"
         },
         "text-secondary": {
-          "value": "{Light.neutral.700}",
+          "value": "#757575",
           "type": "color"
         },
         "text-disabled": {
-          "value": "{Light.neutral.500}",
+          "value": "#bdbdbd",
           "type": "color"
         },
         "text-action-label": {
-          "value": "{Light.neutral.800}",
+          "value": "#616161",
           "type": "color",
           "description": "Action label text color"
         },
         "text-action-label-hover": {
-          "value": "{Light.primary.600}",
+          "value": "#005a75",
           "type": "color"
         },
         "text-action-label-active": {
-          "value": "{Light.primary.700}",
+          "value": "#004462",
           "type": "color"
         },
         "text-primary": {
-          "value": "{Light.primary.500}",
+          "value": "#007489",
           "type": "color",
           "description": "Our product brand"
         },
         "text-destructive": {
-          "value": "{Light.error.500}",
+          "value": "#ff3f3f",
           "type": "color",
           "description": "Text color for destructive actions"
         },
         "text-destructive-hover": {
-          "value": "{Light.error.600}",
+          "value": "#db2e3d",
           "type": "color",
           "description": "Text color for destructive actions - hover state"
         },
         "text-error": {
-          "value": "{Light.error.500}",
+          "value": "#ff3f3f",
           "type": "color",
           "description": "Error text for inputs and error misc"
         },
         "text-input-disabled": {
-          "value": "{Light.neutral.500}",
+          "value": "#bdbdbd",
           "type": "color",
           "description": "disabled text color."
         },
         "text-link": {
-          "value": "{Light.info.500}",
+          "value": "#226cc7",
           "type": "color",
           "description": "Link text"
         },
         "text-link-hover": {
-          "value": "{Light.info.600}",
+          "value": "#1853ab",
           "type": "color"
         },
         "text-link-active": {
-          "value": "{Light.info.700}",
+          "value": "#113e8f",
           "type": "color",
           "description": "Active link text"
         },
         "text-info-dark": {
-          "value": "{Light.info.800}",
+          "value": "#0a2b73",
           "type": "color",
           "description": "Color for texts that are related to info on a light background"
         },
         "text-placeholder": {
-          "value": "{Light.neutral.200}",
+          "value": "#f5f5f5",
           "type": "color",
           "description": "Input placeholder text."
         },
         "text-success": {
-          "value": "{Light.success.500}",
+          "value": "#00bf58",
           "type": "color",
           "description": "Text color for success text"
         },
         "text-success-dark": {
-          "value": "{Light.success.800}",
+          "value": "#006e54",
           "type": "color",
           "description": "Color for texts that are related to info on a light background"
         },
         "text-warning-dark": {
-          "value": "{Light.warning.800}",
+          "value": "#936f1f",
           "type": "color",
           "description": "Color for texts that are related to warnings on a light background"
+        },
+        "text-inverse": {
+          "value": "#ffffff",
+          "type": "color"
         }
       },
       "border": {
         "border-default": {
-          "value": "{Light.neutral.400}",
+          "value": "#e0e0e0",
           "type": "color"
         },
         "border-hover": {
-          "value": "{Light.neutral.800}",
+          "value": "#616161",
           "type": "color"
         },
         "border-disabled": {
-          "value": "{Light.neutral.500}",
+          "value": "#bdbdbd",
           "type": "color"
         },
         "border-primary": {
-          "value": "{Light.primary.500}",
+          "value": "#007489",
           "type": "color"
         },
         "border-primary-hover": {
-          "value": "{Light.primary.600}",
+          "value": "#005a75",
           "type": "color"
         },
         "border-primery-active": {
-          "value": "{Light.primary.700}",
+          "value": "#004462",
           "type": "color"
         },
         "border-primary-focus": {
-          "value": "{Light.primary.300}",
+          "value": "#57dbdb",
           "type": "color"
         },
         "border-success": {
-          "value": "{Light.success.500}",
+          "value": "#00bf58",
           "type": "color"
         },
         "border-error": {
-          "value": "{Light.error.500}",
+          "value": "#ff3f3f",
           "type": "color"
         }
       },
       "background": {
         "bg-alternative": {
-          "value": "{Light.common.white}",
-          "type": "color"
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Second default background color for the web"
         },
         "bg-default": {
-          "value": "{Light.neutral.200}",
-          "type": "color"
+          "value": "#f5f5f5",
+          "type": "color",
+          "description": "Default background color for the whole web"
         },
         "bg-disabled": {
-          "value": "{Light.neutral.400}",
+          "value": "#e0e0e0",
           "type": "color"
         },
         "bg-backdrop": {
-          "value": "{Light.neutral.700}",
-          "type": "color"
+          "value": "#757575",
+          "type": "color",
+          "description": "The color of the mask overlay that appears when you enter a modal state"
         },
         "bg-success-inverse": {
-          "value": "{Light.success.100}",
-          "type": "color"
+          "value": "#c9fbcc",
+          "type": "color",
+          "description": "Color for UI elements that have to do with success"
         },
         "bg-warning-inverse": {
-          "value": "{Light.warning.100}",
-          "type": "color"
+          "value": "#fffae0",
+          "type": "color",
+          "description": "Color for UI elements that have to do with warning."
         },
         "bg-error-inverse": {
-          "value": "{Light.error.100}",
-          "type": "color"
+          "value": "#ffe5d8",
+          "type": "color",
+          "description": "Color for UI elements related to states"
         },
         "bg-info-inverse": {
-          "value": "{Light.info.100}",
-          "type": "color"
+          "value": "#d2ecfc",
+          "type": "color",
+          "description": "Background color for UI elements related to providing neutral information (not error, success, or warning)."
         },
         "bg-default-dark": {
           "value": "#eeeeee",
@@ -595,40 +606,40 @@
         "primary": {
           "contained": {
             "normal": {
-              "value": "{Light.primary.500}",
+              "value": "#007489",
               "type": "color"
             },
             "hover": {
-              "value": "{Light.primary.600}",
+              "value": "#005a75",
               "type": "color"
             },
             "active": {
-              "value": "{Light.primary.700}",
+              "value": "#004462",
               "type": "color"
             },
             "selected": {
-              "value": "{Light.primary.100}",
+              "value": "#c7f9f1",
               "type": "color"
             }
           },
           "outlined": {
             "normal": {
-              "value": "rgba($Light.primary.500, 0)",
+              "value": "#00748900",
               "type": "color",
               "description": "background-primary-transparent-normal"
             },
             "hover": {
-              "value": "rgba($Light.primary.500, 0.08)",
+              "value": "#00748914",
               "type": "color",
               "description": "background-primary-transparent-hover"
             },
             "active": {
-              "value": "rgba($Light.primary.500, 0.16)",
+              "value": "#00748929",
               "type": "color",
               "description": "background-primary-transparent-active"
             },
             "selected": {
-              "value": "rgba($Light.primary.500, 0.24)",
+              "value": "#0074893d",
               "type": "color",
               "description": "background-primary-transparent-selected"
             }
@@ -637,7 +648,7 @@
         "secondary": {
           "contained": {
             "normal": {
-              "value": "{Light.secondary.500}",
+              "value": "#ff7d4f",
               "type": "color"
             },
             "hover": {
@@ -655,22 +666,22 @@
           },
           "outlined": {
             "normal": {
-              "value": "rgba($Light.secondary.500, 0)",
+              "value": "#ff7d4f00",
               "type": "color",
               "description": "background-secondary-transparent-normal"
             },
             "hover": {
-              "value": "rgba($Light.secondary.500, 0.08)",
+              "value": "#ff7d4f14",
               "type": "color",
               "description": "background-secondary-transparent-hover"
             },
             "active": {
-              "value": "rgba($Light.secondary.500, 0.16)",
+              "value": "#ff7d4f29",
               "type": "color",
               "description": "background-secondary-transparent-active"
             },
             "selected": {
-              "value": "rgba($Light.secondary.500, 0.24)",
+              "value": "#ff7d4f3d",
               "type": "color",
               "description": "background-secondary-transparent-selected"
             }
@@ -678,63 +689,67 @@
         },
         "destructive": {
           "destructive-normal": {
-            "value": "{Light.error.500}",
+            "value": "#ff3f3f",
             "type": "color",
             "description": "Color for UI elements related to destructive actions"
           },
           "destructive-active": {
-            "value": "{Light.error.700}",
+            "value": "#b71f3a",
             "type": "color",
             "description": "Active color for UI elements related to destructive actions"
           },
           "destructive-hover": {
-            "value": "{Light.error.600}",
+            "value": "#db2e3d",
             "type": "color",
             "description": "Hover color for UI elements related to destructive actions."
           }
         },
         "default": {
           "normal": {
-            "value": "{Light.common.white}",
+            "value": "#ffffff",
             "type": "color"
           },
           "hover": {
-            "value": "{Light.neutral.100}",
+            "value": "#fafafa",
             "type": "color"
           },
           "active": {
-            "value": "{Light.neutral.200}",
+            "value": "#f5f5f5",
             "type": "color"
           },
           "selected": {
-            "value": "{Light.neutral.300}",
+            "value": "#eeeeee",
+            "type": "color"
+          },
+          "focus": {
+            "value": "#f5f5f5",
             "type": "color"
           }
         }
       },
       "icons": {
         "ic-alternative": {
-          "value": "{Light.common.white}",
+          "value": "#ffffff",
           "type": "color"
         },
         "ic-default": {
-          "value": "{Light.neutral.700}",
+          "value": "#757575",
           "type": "color"
         },
         "ic-hover": {
-          "value": "{Light.neutral.800}",
+          "value": "#616161",
           "type": "color"
         },
         "ic-disabled": {
-          "value": "{Light.neutral.500}",
+          "value": "#bdbdbd",
           "type": "color"
         },
         "ic-error": {
-          "value": "{Light.error.500}",
+          "value": "#ff3f3f",
           "type": "color"
         },
         "ic-info": {
-          "value": "{Light.info.500}",
+          "value": "#226cc7",
           "type": "color"
         }
       }
