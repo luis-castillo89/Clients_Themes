@@ -710,19 +710,15 @@
             "type": "color"
           },
           "hover": {
-            "value": "#fafafa",
+            "value": "{Light.neutral.200}",
             "type": "color"
           },
           "active": {
-            "value": "#f5f5f5",
+            "value": "{Light.neutral.300}",
             "type": "color"
           },
           "selected": {
-            "value": "#eeeeee",
-            "type": "color"
-          },
-          "focus": {
-            "value": "#f5f5f5",
+            "value": "{Light.neutral.400}",
             "type": "color"
           }
         }
