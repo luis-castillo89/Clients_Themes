@@ -688,17 +688,17 @@
           }
         },
         "destructive": {
-          "destructive-normal": {
+          "normal": {
             "value": "#ff3f3f",
             "type": "color",
             "description": "Color for UI elements related to destructive actions"
           },
-          "destructive-active": {
+          "active": {
             "value": "#b71f3a",
             "type": "color",
             "description": "Active color for UI elements related to destructive actions"
           },
-          "destructive-hover": {
+          "hover": {
             "value": "#db2e3d",
             "type": "color",
             "description": "Hover color for UI elements related to destructive actions."
