@@ -729,11 +729,11 @@
           "type": "color"
         },
         "ic-default": {
-          "value": "#757575",
+          "value": "#616161",
           "type": "color"
         },
         "ic-hover": {
-          "value": "#616161",
+          "value": "#424242",
           "type": "color"
         },
         "ic-disabled": {
