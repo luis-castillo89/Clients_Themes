@@ -193,7 +193,7 @@
           "value": "#5397dd",
           "type": "color"
         },
-        "min": {
+        "main": {
           "value": "#226cc7",
           "type": "color"
         },
@@ -543,18 +543,6 @@
             "value": "#e6f7f7",
             "type": "color"
           },
-          "light": {
-            "value": "#dbeff0",
-            "type": "color"
-          },
-          "main": {
-            "value": "#cce3e7",
-            "type": "color"
-          },
-          "dark": {
-            "value": "#95bbc6",
-            "type": "color"
-          },
           "700": {
             "value": "#6693a6",
             "type": "color"
@@ -565,6 +553,18 @@
           },
           "900": {
             "value": "#274d6e",
+            "type": "color"
+          },
+          "light": {
+            "value": "#dbeff0",
+            "type": "color"
+          },
+          "main": {
+            "value": "#cce3e7",
+            "type": "color"
+          },
+          "dark": {
+            "value": "#95bbc6",
             "type": "color"
           }
         },
@@ -581,18 +581,6 @@
             "value": "#d25eeb",
             "type": "color"
           },
-          "light": {
-            "value": "#b136d8",
-            "type": "color"
-          },
-          "main": {
-            "value": "#8400bf",
-            "type": "color"
-          },
-          "dark": {
-            "value": "#6600a4",
-            "type": "color"
-          },
           "700": {
             "value": "#4c0089",
             "type": "color"
@@ -603,6 +591,18 @@
           },
           "900": {
             "value": "#27005b",
+            "type": "color"
+          },
+          "light": {
+            "value": "#b136d8",
+            "type": "color"
+          },
+          "main": {
+            "value": "#8400bf",
+            "type": "color"
+          },
+          "dark": {
+            "value": "#6600a4",
             "type": "color"
           }
         }
@@ -686,7 +686,7 @@
               "description": "background-secondary-transparent-active"
             },
             "selectedOpacity": {
-              "value":  "rgba({Light.secondary.main}, 0.24)",
+              "value": "rgba({Light.secondary.main}, 0.24)",
               "type": "color",
               "description": "background-secondary-transparent-selected"
             }
