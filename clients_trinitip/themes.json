@@ -208,7 +208,7 @@
           "type": "color"
         },
         "200": {
-          "value": "#c9fbcc",
+          "value": "#95F8A5",
           "type": "color"
         },
         "300": {
@@ -246,15 +246,15 @@
           "type": "color"
         },
         "100": {
-          "value": "#fafafa",
-          "type": "color"
-        },
-        "200": {
           "value": "#f5f5f5",
           "type": "color"
         },
-        "300": {
+        "200": {
           "value": "#eeeeee",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e0e0e0",
           "type": "color"
         },
         "400": {
@@ -270,15 +270,15 @@
           "type": "color"
         },
         "700": {
-          "value": "#757575",
-          "type": "color"
-        },
-        "800": {
           "value": "#616161",
           "type": "color"
         },
-        "900": {
+        "800": {
           "value": "#424242",
+          "type": "color"
+        },
+        "900": {
+          "value": "#212121",
           "type": "color"
         }
       },
@@ -289,20 +289,20 @@
           "description": "Our product brand"
         },
         "secondary": {
-          "value": "#757575",
+          "value": "{Light.neutral.600}",
           "type": "color"
         },
         "disabled": {
-          "value": "#bdbdbd",
+          "value": "{Light.neutral.400}",
           "type": "color"
         },
-        "text-action-label": {
-          "value": "#616161",
+        "action-label": {
+          "value": "{Light.neutral.700}",
           "type": "color",
           "description": "Action label text color"
         },
-        "text-action-label-hover": {
-          "value": "#005a75",
+        "action-label-hover": {
+          "value": "{Light.primary.dark}",
           "type": "color"
         },
         "text-action-label-active": {
