@@ -305,226 +305,226 @@
           "value": "{Light.primary.dark}",
           "type": "color"
         },
-        "text-action-label-active": {
-          "value": "#004462",
+        "action-label-active": {
+          "value": "{Light.primary.700}",
           "type": "color"
         },
-        "text-primary": {
-          "value": "#007489",
+        "primary-,main": {
+          "value": "{Light.primary.main}",
           "type": "color",
           "description": "Our product brand"
         },
-        "text-destructive": {
-          "value": "#ff3f3f",
+        "destructive": {
+          "value": "{Light.error.main}",
           "type": "color",
           "description": "Text color for destructive actions"
         },
-        "text-destructive-hover": {
-          "value": "#db2e3d",
+        "destructive-hover": {
+          "value": "{Light.error.dark}",
           "type": "color",
           "description": "Text color for destructive actions - hover state"
         },
-        "text-error": {
-          "value": "#ff3f3f",
+        "error": {
+          "value": "{Light.error.main}",
           "type": "color",
           "description": "Error text for inputs and error misc"
         },
-        "text-input-disabled": {
-          "value": "#bdbdbd",
+        "input-disabled": {
+          "value": "{Light.neutral.400}",
           "type": "color",
           "description": "disabled text color."
         },
-        "text-link": {
-          "value": "#226cc7",
+        "link": {
+          "value": "{Light.info.main}",
           "type": "color",
           "description": "Link text"
         },
-        "text-link-hover": {
-          "value": "#1853ab",
+        "link-hover": {
+          "value": "{Light.info.dark}",
           "type": "color"
         },
-        "text-link-active": {
-          "value": "#113e8f",
+        "link-active": {
+          "value": "{Light.info.700}",
           "type": "color",
           "description": "Active link text"
         },
-        "text-info-dark": {
-          "value": "#0a2b73",
+        "info-dark": {
+          "value": "{Light.info.800}",
           "type": "color",
           "description": "Color for texts that are related to info on a light background"
         },
-        "text-placeholder": {
-          "value": "#9e9e9e",
+        "placeholder": {
+          "value": "{Light.neutral.500}",
           "type": "color",
           "description": "Input placeholder text."
         },
-        "text-success": {
-          "value": "#00bf58",
+        "success": {
+          "value": "{Light.success.main}",
           "type": "color",
           "description": "Text color for success text"
         },
-        "text-success-dark": {
-          "value": "#006e54",
+        "success-dark": {
+          "value": "{Light.success.800}",
           "type": "color",
           "description": "Color for texts that are related to info on a light background"
         },
-        "text-warning-dark": {
-          "value": "#936f1f",
+        "warning-dark": {
+          "value": "{Light.warning.800}",
           "type": "color",
           "description": "Color for texts that are related to warnings on a light background"
         },
-        "text-inverse": {
-          "value": "#ffffff",
+        "inverse": {
+          "value": "{Light.common.white}",
           "type": "color"
         }
       },
       "border": {
         "divider": {
-          "value": "#e0e0e0",
+          "value": "{Light.neutral.300}",
           "type": "color"
         },
         "default": {
-          "value": "#e0e0e0",
+          "value": "{Light.neutral.300}",
           "type": "color"
         },
-        "border-hover": {
-          "value": "#616161",
+        "hover": {
+          "value": "{Light.neutral.700}",
           "type": "color"
         },
-        "border-disabled": {
-          "value": "#bdbdbd",
+        "disabled": {
+          "value": "{Light.neutral.400}",
           "type": "color"
         },
-        "border-primary": {
-          "value": "#007489",
+        "primary": {
+          "value": "{Light.primary.main}",
           "type": "color"
         },
-        "border-primary-hover": {
-          "value": "#005a75",
+        "primary-hover": {
+          "value": "{Light.primary.dark}",
           "type": "color"
         },
-        "border-primery-active": {
-          "value": "#004462",
+        "primery-active": {
+          "value": "{Light.primary.700}",
           "type": "color"
         },
-        "border-primary-focus": {
-          "value": "#57dbdb",
+        "primary-focus": {
+          "value": "{Light.primary.300}",
           "type": "color"
         },
-        "border-success": {
-          "value": "#00bf58",
+        "success": {
+          "value": "{Light.success.main}",
           "type": "color"
         },
-        "border-error": {
-          "value": "#ff3f3f",
+        "error": {
+          "value": "{Light.error.main}",
           "type": "color"
         }
       },
       "background": {
-        "bg-alternative": {
-          "value": "#ffffff",
+        "paper": {
+          "value": "{Light.common.white}",
           "type": "color",
           "description": "Second default background color for the web"
         },
-        "bg-default": {
-          "value": "#f5f5f5",
+        "default": {
+          "value": "{Light.neutral.100}",
           "type": "color",
           "description": "Default background color for the whole web"
         },
-        "bg-disabled": {
-          "value": "#e0e0e0",
+        "disabled": {
+          "value": "{Light.neutral.300}",
           "type": "color"
         },
-        "bg-backdrop": {
-          "value": "#757575",
+        "backdrop": {
+          "value": "rgba({Light.neutral.700}, 0.6)",
           "type": "color",
           "description": "The color of the mask overlay that appears when you enter a modal state"
         },
-        "bg-success-inverse": {
-          "value": "#c9fbcc",
+        "success-inverse": {
+          "value": "{Light.success.100}",
           "type": "color",
           "description": "Color for UI elements that have to do with success"
         },
-        "bg-warning-inverse": {
-          "value": "#fffae0",
+        "warning-inverse": {
+          "value": "{Light.warning.100}",
           "type": "color",
           "description": "Color for UI elements that have to do with warning."
         },
-        "bg-error-inverse": {
-          "value": "#ffe5d8",
+        "error-inverse": {
+          "value": "{Light.error.100}",
           "type": "color",
           "description": "Color for UI elements related to states"
         },
-        "bg-info-inverse": {
-          "value": "#d2ecfc",
+        "info-inverse": {
+          "value": "{Light.info.100}",
           "type": "color",
           "description": "Background color for UI elements related to providing neutral information (not error, success, or warning)."
         },
-        "bg-default-dark": {
-          "value": "#eeeeee",
+        "default-dark": {
+          "value": "{Light.neutral.200}",
           "type": "color",
           "description": "Dark variant of COLOR_BACKGROUND."
         },
-        "bg-row-active": {
-          "value": "#eeeeee",
+        "row-active": {
+          "value": "{Light.neutral.200}",
           "type": "color",
           "description": "Used as the background color for the active state on rows or items on list-like components"
         },
-        "bg-row-hover": {
-          "value": "#e0e0e0",
+        "row-hover": {
+          "value": "{Light.neutral.300}",
           "type": "color",
           "description": "Used as the background color for the hover state on rows or items on list-like components."
         },
-        "bg-primary-inverse": {
-          "value": "#c7f9f1",
+        "primary-inverse": {
+          "value": "{Light.primary.100}",
           "type": "color"
         },
-        "bg-primary": {
-          "value": "#007489",
+        "primary": {
+          "value": "{Light.primary.main}",
           "type": "color"
         },
-        "bg-primary-dark": {
-          "value": "#004462",
+        "primary-dark": {
+          "value": "{Light.primary.700}",
           "type": "color",
           "description": "Alternative background color for dark portions of the web"
         },
-        "bg-error": {
-          "value": "#ff3f3f",
+        "error": {
+          "value": "{Light.error.main}",
           "type": "color",
           "description": "Color for UI elements related to errors"
         },
-        "bg-error-dark": {
-          "value": "#931435",
+        "error-dark": {
+          "value": "{Light.error.800}",
           "type": "color",
           "description": "Darker color for UI elements that have to do with error. Accessible with white text"
         },
-        "bg-success": {
-          "value": "#00bf58",
+        "success": {
+          "value": "{Light.success.main}",
           "type": "color",
           "description": "Color for UI elements that have to do with success"
         },
-        "bg-success-dark": {
-          "value": "#006e54",
+        "success-dark": {
+          "value": "{Light.success.800}",
           "type": "color",
           "description": "Darker color for UI elements that have to do with success. Accessible with white text"
         },
-        "bg-warning": {
-          "value": "#ffda64",
+        "warning": {
+          "value": "{Light.warning.main}",
           "type": "color",
           "description": "Color for UI elements that have to do with warning."
         },
-        "bg-warning-dark": {
-          "value": "#936f1f",
+        "warning-dark": {
+          "value": "{Light.warning.800}",
           "type": "color",
           "description": "Color for UI elements that have to background-warning-dark do with warning."
         },
-        "bg-info": {
-          "value": "#226cc7",
+        "info": {
+          "value": "{Light.info.main}",
           "type": "color",
           "description": "Background color for UI elements related to providing neutral information (not error, success, or warning)."
         },
-        "bg-info-dark": {
-          "value": "#0a2b73",
+        "info-dark": {
+          "value": "{Light.info.800}",
           "type": "color",
           "description": "Color for UI elements that have to background-warning-dark do with Info."
         }
@@ -543,15 +543,15 @@
             "value": "#e6f7f7",
             "type": "color"
           },
-          "400": {
+          "light": {
             "value": "#dbeff0",
             "type": "color"
           },
-          "500": {
+          "main": {
             "value": "#cce3e7",
             "type": "color"
           },
-          "600": {
+          "dark": {
             "value": "#95bbc6",
             "type": "color"
           },
@@ -581,15 +581,15 @@
             "value": "#d25eeb",
             "type": "color"
           },
-          "400": {
+          "light": {
             "value": "#b136d8",
             "type": "color"
           },
-          "500": {
+          "main": {
             "value": "#8400bf",
             "type": "color"
           },
-          "600": {
+          "dark": {
             "value": "#6600a4",
             "type": "color"
           },
@@ -611,40 +611,40 @@
         "primary": {
           "contained": {
             "normal": {
-              "value": "#007489",
+              "value": "{Light.primary.main}",
               "type": "color"
             },
             "hover": {
-              "value": "#005a75",
+              "value": "{Light.primary.dark}",
               "type": "color"
             },
             "active": {
-              "value": "#004462",
+              "value": "{Light.primary.700}",
               "type": "color"
             },
             "selected": {
-              "value": "#c7f9f1",
+              "value": "{Light.primary.dark}",
               "type": "color"
             }
           },
           "outlined": {
-            "normal": {
+            "normalOpacity": {
               "value": "rgba({Light.primary.main}, 0)",
               "type": "color",
               "description": "background-primary-transparent-normal"
             },
-            "hover": {
+            "hoverOpacity": {
               "value": "rgba({Light.primary.main}, 0.08)",
               "type": "color",
               "description": "background-primary-transparent-hover"
             },
-            "active": {
-              "value": "#00748929",
+            "activeOpacity": {
+              "value": "rgba({Light.primary.main}, 0.16)",
               "type": "color",
               "description": "background-primary-transparent-active"
             },
-            "selected": {
-              "value": "#0074893d",
+            "selectedOpacity": {
+              "value": "rgba({Light.primary.main}, 0.24)",
               "type": "color",
               "description": "background-primary-transparent-selected"
             }
@@ -653,40 +653,40 @@
         "secondary": {
           "contained": {
             "normal": {
-              "value": "#ff7d4f",
+              "value": "{Light.secondary.main}",
               "type": "color"
             },
             "hover": {
-              "value": "#db5839",
+              "value": "{Light.secondary.dark}",
               "type": "color"
             },
             "active": {
-              "value": "#b73927",
+              "value": "{Light.secondary.700}",
               "type": "color"
             },
             "selected": {
-              "value": "#ffeedb",
+              "value": "{Light.secondary.dark}",
               "type": "color"
             }
           },
           "outlined": {
-            "normal": {
-              "value": "#ff7d4f00",
+            "normalOpacty": {
+              "value": "rgba({Light.secondary.main}, 0)",
               "type": "color",
               "description": "background-secondary-transparent-normal"
             },
-            "hover": {
-              "value": "#ff7d4f14",
+            "hoverOpacity": {
+              "value": "rgba({Light.secondary.main}, 0.08)",
               "type": "color",
               "description": "background-secondary-transparent-hover"
             },
-            "active": {
-              "value": "#ff7d4f29",
+            "activeOpacity": {
+              "value": "rgba({Light.secondary.main}, 0.16)",
               "type": "color",
               "description": "background-secondary-transparent-active"
             },
-            "selected": {
-              "value": "#ff7d4f3d",
+            "selectedOpacity": {
+              "value":  "rgba({Light.secondary.main}, 0.24)",
               "type": "color",
               "description": "background-secondary-transparent-selected"
             }
@@ -694,63 +694,63 @@
         },
         "destructive": {
           "normal": {
-            "value": "#ff3f3f",
+            "value": "{Light.error.main}",
             "type": "color",
             "description": "Color for UI elements related to destructive actions"
           },
           "active": {
-            "value": "#b71f3a",
+            "value": "{Light.error.700}",
             "type": "color",
             "description": "Active color for UI elements related to destructive actions"
           },
           "hover": {
-            "value": "#db2e3d",
+            "value": "{Light.error.dark}",
             "type": "color",
             "description": "Hover color for UI elements related to destructive actions."
           }
         },
         "default": {
           "normal": {
-            "value": "#ffffff",
+            "value": "{Light.common.white}",
             "type": "color"
           },
           "hover": {
-            "value": "#f5f5f5",
+            "value": "{Light.neutral.100}",
             "type": "color"
           },
           "active": {
-            "value": "#eeeeee",
+            "value": "{Light.neutral.200}",
             "type": "color"
           },
           "selected": {
-            "value": "#eeeeee",
+            "value": "{Light.neutral.300}",
             "type": "color"
           }
         }
       },
       "icons": {
-        "ic-alternative": {
-          "value": "#ffffff",
+        "alternative": {
+          "value": "{Light.common.white}",
           "type": "color"
         },
-        "ic-default": {
-          "value": "#616161",
+        "default": {
+          "value": "{Light.neutral.700}",
           "type": "color"
         },
-        "ic-hover": {
-          "value": "#424242",
+        "hover": {
+          "value": "{Light.neutral.800}",
           "type": "color"
         },
-        "ic-disabled": {
-          "value": "#bdbdbd",
+        "disabled": {
+          "value": "{Light.neutral.400}",
           "type": "color"
         },
-        "ic-error": {
-          "value": "#ff3f3f",
+        "error": {
+          "value": "{Light.error.main}",
           "type": "color"
         },
-        "ic-info": {
-          "value": "#226cc7",
+        "info": {
+          "value": "{Light.info.main}",
           "type": "color"
         }
       }
