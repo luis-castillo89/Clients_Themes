@@ -1350,6 +1350,18 @@
         "value": "line-through",
         "type": "textDecoration"
       }
+    },
+    "focus": {
+      "value": {
+        "color": "#57dbdb",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 4,
+        "spread": 0
+      },
+      "type": "boxShadow",
+      "description": "used for state focus on interactive components"
     }
   },
   "$themes": [],
