@@ -229,26 +229,26 @@
         "actions": {
           "primary": {
             "contained": {
-              "normal": {
-                "value": "{cafe_rio_theme.Light.primary.main}",
+              "focus": {
+                "value": "#004f5d",
                 "type": "color"
               },
               "hover": {
-                "value": "{cafe_rio_theme.Light.primary.dark}",
+                "value": "#006374",
                 "type": "color"
               },
               "active": {
-                "value": "{Light.primary.700}",
+                "value": "#006374",
                 "type": "color"
               },
               "selected": {
-                "value": "{cafe_rio_theme.Light.primary.dark}",
+                "value": "#005868",
                 "type": "color"
               }
             },
             "outlined": {
-              "normalOpacity": {
-                "value": "rgba({cafe_rio_theme.Light.primary.main}, 0)",
+              "focus": {
+                "value": "rgba(0,117,138,0.12)",
                 "type": "color",
                 "description": "background-primary-transparent-normal"
               },
@@ -271,16 +271,16 @@
           },
           "secondary": {
             "contained": {
-              "normal": {
-                "value": "{cafe_rio_theme.Light.secondary.main}",
+              "focus": {
+                "value": "#753a24",
                 "type": "color"
               },
               "hover": {
-                "value": "{cafe_rio_theme.Light.secondary.dark}",
+                "value": "rgba(255,125,79,0.15)",
                 "type": "color"
               },
               "active": {
-                "value": "{Light.secondary.700}",
+                "value": "rgba(255,125,79,0.54)",
                 "type": "color"
               },
               "selected": {
@@ -289,61 +289,26 @@
               }
             },
             "outlined": {
-              "normalOpacty": {
-                "value": "rgba({cafe_rio_theme.Light.secondary.main}, 0)",
+              "focus": {
+                "value": "#ff7d4f1f",
                 "type": "color",
                 "description": "background-secondary-transparent-normal"
               },
-              "hoverOpacity": {
-                "value": "rgba({cafe_rio_theme.Light.secondary.main}, 0.08)",
+              "hover": {
+                "value": "#ff7d4f0a",
                 "type": "color",
                 "description": "background-secondary-transparent-hover"
               },
-              "activeOpacity": {
-                "value": "rgba({cafe_rio_theme.Light.secondary.main}, 0.16)",
+              "active": {
+                "value": "#ff7d4f8a",
                 "type": "color",
                 "description": "background-secondary-transparent-active"
               },
-              "selectedOpacity": {
-                "value": "rgba({cafe_rio_theme.Light.secondary.main}, 0.24)",
+              "selected": {
+                "value": "#ff7d4f14",
                 "type": "color",
                 "description": "background-secondary-transparent-selected"
               }
-            }
-          },
-          "destructive": {
-            "normal": {
-              "value": "{cafe_rio_theme.Light.error.main}",
-              "type": "color",
-              "description": "Color for UI elements related to destructive actions"
-            },
-            "active": {
-              "value": "{Light.error.700}",
-              "type": "color",
-              "description": "Active color for UI elements related to destructive actions"
-            },
-            "hover": {
-              "value": "{cafe_rio_theme.Light.error.dark}",
-              "type": "color",
-              "description": "Hover color for UI elements related to destructive actions."
-            }
-          },
-          "default": {
-            "normal": {
-              "value": "{cafe_rio_theme.Light.common.white}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{Light.neutral.100}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{Light.neutral.200}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{Light.neutral.300}",
-              "type": "color"
             }
           }
         }
@@ -649,10 +614,10 @@
           "value": {
             "color": "#12121233",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 16,
-            "spread": 0
+            "x": "0",
+            "y": "8",
+            "blur": "16",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "Dialogs, Menu"
@@ -661,10 +626,10 @@
           "value": {
             "color": "#00000029",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 8,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "uses in tables, cards"
@@ -673,10 +638,10 @@
           "value": {
             "color": "#00000040",
             "type": "dropShadow",
-            "x": 0,
-            "y": 2,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "2",
+            "blur": "2",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "uses in menu drawer"
@@ -1541,10 +1506,10 @@
           "value": {
             "color": "#12121233",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 16,
-            "spread": 0
+            "x": "0",
+            "y": "8",
+            "blur": "16",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "Dialogs, Menu"
@@ -1553,10 +1518,10 @@
           "value": {
             "color": "#00000029",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 8,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "uses in tables, cards"
@@ -1565,10 +1530,10 @@
           "value": {
             "color": "#00000040",
             "type": "dropShadow",
-            "x": 0,
-            "y": 2,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "2",
+            "blur": "2",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "uses in menu drawer"
